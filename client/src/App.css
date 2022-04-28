@@ -1,10 +1,10 @@
 /* Global Styles */
 :root {
-  --primary-color: #17a2b8;
-  --dark-color: #343a40;
-  --light-color: #f4f4f4;
-  --danger-color: #dc3545;
-  --success-color: #28a745;
+  --primary-color: #009dff;
+  --dark-color: #003971;
+  --light-color: #00ffd0;
+  --danger-color: #ff0019;
+  --success-color: #eaff00;
 }
 
 * {
@@ -18,7 +18,7 @@ body {
   font-size: 1rem;
   line-height: 1.6;
   background-color: #fff;
-  color: #333;
+  color: #000;
 }
 
 a {
@@ -129,7 +129,7 @@ img {
 .btn {
   display: inline-block;
   background: var(--light-color);
-  color: #333;
+  color: #000;
   padding: 0.4rem 1.3rem;
   font-size: 1rem;
   border: none;
@@ -145,7 +145,7 @@ img {
   text-align: center;
   margin: 0.3rem;
   background: var(--light-color);
-  color: #333;
+  color: #000;
 }
 
 .alert {
@@ -153,7 +153,7 @@ img {
   margin: 1rem 0;
   opacity: 0.9;
   background: var(--light-color);
-  color: #333;
+  color: #000;
 }
 
 .btn-primary,
@@ -169,7 +169,7 @@ img {
 .badge-light,
 .alert-light {
   background: var(--light-color);
-  color: #333;
+  color: #000;
 }
 
 .btn-dark,
@@ -201,7 +201,7 @@ img {
 .badge-white,
 .alert-white {
   background: #fff;
-  color: #333;
+  color: #000;
   border: #ccc solid 1px;
 }
 
