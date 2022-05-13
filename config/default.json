@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://devconnector:devconnectorMERN@dev-connector-mern-data.kni8o.mongodb.net/devconnectorMERN?retryWrites=true&w=majority",
+  "NODE_ENV": "production",
+  "PORT": "5000",
+  "jwtSecret": "mysecrettoken"
+}
